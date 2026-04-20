@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = BookmarkViewer
+build_property.ProjectDir = /home/lucy/BookmarkViewer-main/BookmarkViewer/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

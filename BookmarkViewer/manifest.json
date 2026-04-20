@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "BookmarkViewer",
+  "name": "BookmarkViewer",
+  "author": "Lucy",
+  "version": "1.2.0",
+  "gameVersion": "1.40.8",
+  "description": "Lets you view a songs bookmarks in practice mode!",
+  "dependsOn": {
+    "BSIPA": "^4.2.2",
+    "SiraUtil": "^3.1.2",
+    "BeatSaberMarkupLanguage": "^1.6.8"
+  }
+}

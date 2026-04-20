@@ -1,0 +1,10 @@
+/home/lucy/BookmarkViewer-main/BookmarkViewer/bin/Debug/netstandard2.1/BookmarkViewer.deps.json
+/home/lucy/BookmarkViewer-main/BookmarkViewer/bin/Debug/netstandard2.1/BookmarkViewer.dll
+/home/lucy/BookmarkViewer-main/BookmarkViewer/bin/Debug/netstandard2.1/BookmarkViewer.pdb
+/home/lucy/BookmarkViewer-main/BookmarkViewer/obj/Debug/netstandard2.1/BookmarkViewer.csproj.AssemblyReference.cache
+/home/lucy/BookmarkViewer-main/BookmarkViewer/obj/Debug/netstandard2.1/BookmarkViewer.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucy/BookmarkViewer-main/BookmarkViewer/obj/Debug/netstandard2.1/BookmarkViewer.AssemblyInfoInputs.cache
+/home/lucy/BookmarkViewer-main/BookmarkViewer/obj/Debug/netstandard2.1/BookmarkViewer.AssemblyInfo.cs
+/home/lucy/BookmarkViewer-main/BookmarkViewer/obj/Debug/netstandard2.1/BookmarkViewer.csproj.CoreCompileInputs.cache
+/home/lucy/BookmarkViewer-main/BookmarkViewer/obj/Debug/netstandard2.1/BookmarkViewer.dll
+/home/lucy/BookmarkViewer-main/BookmarkViewer/obj/Debug/netstandard2.1/BookmarkViewer.pdb
